@@ -11,4 +11,4 @@ To start the Game put into the terminal:
 python squares_game.py
 
 
-#Game created by MoneyIn1337 and Dev-Team.
+#Game created by 1337 Technologies - twitch.tv/itzzistylezz.
